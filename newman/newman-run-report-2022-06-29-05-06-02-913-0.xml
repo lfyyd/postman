@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="color" tests="4" time="0.202">
+  <testsuite name="1.登录" id="4686ac3e-422e-49e6-af12-1c493342ccfd" timestamp="2022-06-29T05:06:02.334Z" tests="3" failures="0" errors="0" time="0.060">
+    <testcase name="Status code is 200" time="0.060" classname="Color"/>
+    <testcase name="Your test name" time="0.060" classname="Color"/>
+    <testcase name="Response time is less than 200ms" time="0.060" classname="Color"/>
+  </testsuite>
+  <testsuite name="2.创建" id="699485ef-4f4b-46e5-a468-1bc36fd8b52c" timestamp="2022-06-29T05:06:02.334Z" tests="3" failures="0" errors="0" time="0.066">
+    <testcase name="Status code is 200" time="0.066" classname="Color"/>
+    <testcase name="Your test name" time="0.066" classname="Color"/>
+    <testcase name="Response time is less than 200ms" time="0.066" classname="Color"/>
+  </testsuite>
+  <testsuite name="3.查询染料列表" id="3a3a10af-0670-4f84-90ea-9f7c8f7694c4" timestamp="2022-06-29T05:06:02.334Z" tests="3" failures="0" errors="0" time="0.018">
+    <testcase name="Status code is 200" time="0.018" classname="Color"/>
+    <testcase name="Your test name" time="0.018" classname="Color"/>
+    <testcase name="Response time is less than 200ms" time="0.018" classname="Color"/>
+  </testsuite>
+  <testsuite name="4.删除染料列表" id="2454fe7f-2fc6-4484-86b6-3670e45ce169" timestamp="2022-06-29T05:06:02.334Z" tests="3" failures="0" errors="0" time="0.058">
+    <testcase name="Status code is 200" time="0.058" classname="Color"/>
+    <testcase name="Your test name" time="0.058" classname="Color"/>
+    <testcase name="Response time is less than 200ms" time="0.058" classname="Color"/>
+  </testsuite>
+</testsuites>
